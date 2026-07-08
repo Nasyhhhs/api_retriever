@@ -1,13 +1,10 @@
 Инструкция по запуску:
 
 1. Склонировать репозиторий 
-git clone https://gitlab.slurm.io/data_engineer/s087174/s087174_review.git
 
-2. Перейти в папку 
-cd project_1
+2. Перейти в папку project_1
 
-3. Установить пакет 
-pip install -e .
+3. Установить пакет
 
 4. Запустить проект
 python run.py
